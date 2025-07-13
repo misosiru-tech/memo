@@ -1,3 +1,7 @@
+---
+permalink: /self-intro/
+---
+
 # 私のロードスターについて
 
 当サイトはmisosiru-techの備忘録です。
