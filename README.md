@@ -4,6 +4,6 @@
 
 下記リンクからどうぞ。
 
-## <a href="https://misosiru-tech.github.io/memo/texts/mx5-manual">ロードスター備忘録</a>
+## <a href="https://misosiru-tech.github.io/memo/manual">ロードスター備忘録</a>
 
-## <a href="https://misosiru-tech.github.io/memo/texts/self-int">自己紹介</a>
+## <a href="https://misosiru-tech.github.io/memo/self-int">自己紹介</a>
