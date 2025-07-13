@@ -23,5 +23,4 @@ NB6Cなので1.6L。ミッションは5MT。Mグレード、ハードトップ�
 
 ロードスターを買っておきながら幌を開ける気は無かったのでちょうどよかった。
 
-http://drive.google.com/uc?export=view&id={}
-![test](https://drive.google.com/uc?export=view&id={1kPVk1ZGPTQMxktF3VEB-tFfmZzhAuUBV})
+
