@@ -1,5 +1,6 @@
-<link rel="icon" href="favicon.ico">
-
+---
+permalink: /manual/
+---
 # NBロードスター　勝手マニュアル
 
 NB2の整備や部品の情報をメモしています。
