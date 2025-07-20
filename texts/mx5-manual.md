@@ -1,4 +1,13 @@
 
+
+
+
+
+---
+permalink: /mx5-manual/
+---
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5Q4LDCVGQS"></script>
 <script>
@@ -9,12 +18,6 @@
   gtag('config', 'G-5Q4LDCVGQS');
 </script>
 
-
-
-
----
-permalink: /mx5-manual/
----
 # NBロードスター　勝手マニュアル
 
 NB2の整備や部品の情報をメモしています。
