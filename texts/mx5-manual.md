@@ -1,8 +1,3 @@
-
-
-
-
-
 ---
 permalink: /mx5-manual/
 ---
